@@ -61,9 +61,13 @@ Count Clash is a math quiz game for intermediate school students. It ask math qu
   
 4. **Open the Folder**
    
-* In command Prompt, type or copy and paste it:
+* In command Prompt, type:
 
-          cd "C:\Users\vangi\OneDrive - Lynfield College\3PAD\VangieColoma_Checkpoint 2\Codes"
+        cd PASTE-YOUR-FOLDER-PATH-HERE       
+
+* Example:
+
+       cd “C:\Users\YourName\Documents\CountClashgame”
   
 5. **Run the game**
 
