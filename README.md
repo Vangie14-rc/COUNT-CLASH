@@ -17,7 +17,7 @@ Python 3.10
 
 ***DESCRIPTION****
 
-Count Clash is a math quiz game for intermediate school students. It ask mathn questions at three level "Easy", "Medium", "Hard. Kinds can asnwer questions, get feedback and see their scores.
+Count Clash is a math quiz game for intermediate school students. It ask math questions at three level "Easy", "Medium", "Hard. Kinds can asnwer questions, get feedback and see their scores.
 
 ***HOW TO USE***
 
