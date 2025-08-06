@@ -23,7 +23,7 @@ Count Clash is a math quiz game for intermediate school students. It ask math qu
 
 * Open the game window
 * Click on your difficulty: Easy, Mediuim or Hard
-* Answer 0the mstch question shown on the sceen.
+* Answer the maths question shown on the sceen.
 * Keep playing until the quiz is done.
 
 ***FEATURES***
@@ -57,7 +57,7 @@ Count Clash is a math quiz game for intermediate school students. It ask math qu
   
 3. **Put your Files Together**
    
-* Make sure your Python file (Version1.1.3.py)and all your images (like math.png and etc.) are same in the folder.
+* Make sure your Python file (Version1.1.4.py)and all your images (like math.png and etc.) are same in the folder.
   
 4. **Open the Folder**
    
@@ -69,11 +69,11 @@ Count Clash is a math quiz game for intermediate school students. It ask math qu
 
  * Then type or copy and paste it:
 
-         python "Version 1.1.3.py "
+         python "Version 1.1.4.py "
    
 * If it doesn't work with python, try:
 
-         python3 "Version 1.1.3.py"
+         python3 "Version 1.1.4.py"
   
 6. **The game will open, and you can start playing!**
 
